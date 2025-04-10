@@ -40,6 +40,3 @@ pip install -r requirements.txt
 
 ## License
 MIT
-
-## Created with AI
-This project was automatically generated using an AI-powered project generator.

@@ -1,0 +1,6 @@
+transformers (Hugging Face)
+torch / tensorflow
+nltk / spaCy (for text processing, NER)
+scikit-learn (for topic modeling if used, sentiment analysis baseline)
+pandas
+numpy
